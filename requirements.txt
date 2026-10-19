@@ -1,0 +1,5 @@
+numpy
+pillow
+mss        # screen capture (play_web.py)
+pynput     # key presses + Esc-to-stop (play_web.py)
+pygame     # optional: only for replica_gui.py
